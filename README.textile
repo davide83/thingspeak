@@ -1,6 +1,6 @@
-h1. SG-ThingSpeak
+h1. ThingSpeak
 
-SG-ThingSpeak as Original ThingSpeak, customized for SmartGround.eu Project and relased with the same Licence (GPL v3)
+SG ThingSpeak as Original ThingSpeak, customized for SmartGround.eu Project and relased with the same Licence (GPL v3)
 
 "ThingSpeak":http://www.thingspeak.com is an open source “Internet of Things” application and API to store and retrieve data from things using HTTP over the Internet or via a Local Area Network. With ThingSpeak, you can create sensor logging applications, location tracking applications, and a social network of things with status updates.
 
