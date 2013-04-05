@@ -4,4 +4,5 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Thingspeak::Application.config.secret_token = '44a84c8a4b53e95aecc92b38a267eaef3853d876968ad30f0b21023922b9dbaed1976e8a29884121e124720bfe3a13f8b1b0078f94f840866f83fc9bfbd75f73'
+Thingspeak::Application.config.secret_token = 
+'131f57887189252d02c7152cbb7a7ba4960b15352d16d06cf7f0d6cf77d51af12cd4962767fbac93b2df9ac3b572576aa0d1c8cae7856de0b2cd25c1e77ed382'
